@@ -1,0 +1,37 @@
+{
+  "name": "rsdp",
+  "author": {
+    "name": "Tomasz Janczuk <tomasz@janczuk.org>",
+    "url": "http://tomasz.janczuk.org",
+    "twitter": "tjanczuk"
+  },
+  "version": "0.1.0-pre",
+  "description": "Ridiculously Simple Duplex Protocol",
+  "tags": [
+    "tcp",
+    "duplex",
+    "protocol",
+    "rsdp"
+  ],
+  "main": "./lib/rsdp.js",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "licenses": [
+    {
+      "type": "Apache",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "devDependencies": {
+    "mocha": "1.8.1"
+  },
+  "homepage": "https://github.com/tjanczuk/rsdp",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tjanczuk/rsdp.git"
+  },
+  "bugs": {
+    "url": "http://github.com/tjanczuk/rsdp/issues"
+  }
+}

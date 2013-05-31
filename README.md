@@ -1,4 +1,4 @@
-rsdp
+Ridiculously Simple Duplex Protocol
 ====
 
-Ridiculously Simple Duplex Protocol
+
